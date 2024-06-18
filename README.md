@@ -25,7 +25,7 @@ This assignment aims to familiarize you with the tools and configurations necess
    If applicable, install package managers like pip (Python).
 
 6. Configure a Database (MySQL):
-   Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+   Download and install MySQL database. https://dev..com/downloads/windows/installer/5.7.html
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
@@ -40,6 +40,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
+
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
